@@ -40,6 +40,10 @@ Edit the image you generated (or uploaded) with prompts — e.g. put the dog and
 
 <img width="1510" height="771" alt="AI Edit" src="https://github.com/user-attachments/assets/06cea3bb-9f32-495d-b079-13353762ac62" />
 
+Multi layer, and brush features.
+
+<img width="1510" height="771" alt="Erase" src="https://github.com/user-attachments/assets/229f0e1a-0bbb-49ff-a7c7-8dbe87c310e8" />
+
 ---
 
 ## Features
