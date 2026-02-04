@@ -2,7 +2,7 @@
 
 **Video full demo coming soon** 🔜
 
-An image editing app that uses AI API integration alongside a programmatic interface.
+An AI powered image editing app that uses AI API integration alongside a programmatic interface. (Please note to use this system you must have your own OPENAI key, with credits.)
 
 ---
 
