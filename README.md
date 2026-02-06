@@ -2,7 +2,9 @@
 
 **Video full demo coming soon** 🔜
 
-An AI-powered image editing application that integrates AI APIs with a programmatic interface **(⚠️ requires a valid OpenAI API key with available credits)**.
+An AI-powered image editing application that integrates AI APIs with a programmatic interface 
+
+**⚠️ Requires a valid OpenAI API key with available credits**.⚠️ 
 
 ---
 
