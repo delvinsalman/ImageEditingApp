@@ -22,7 +22,7 @@ Blank canvas, toolbars, and AI tools ready to use.
 
 ### Generate from text
 
-Default example: *"A dog dancing with a cat"* — create images from a prompt, then edit or export them.
+Default example: *"A dog dancing with a cat on the beach"* — create images from a prompt, then edit or export them.
 
 <img width="1510" height="771" alt="Text - Image" src="https://github.com/user-attachments/assets/0ba7ad63-0ab6-4834-8d9e-8055c851ddf9" />
 
