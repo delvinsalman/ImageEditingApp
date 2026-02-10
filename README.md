@@ -10,7 +10,11 @@ An AI-powered image editing application that integrates AI APIs with a programma
 
 ## Demos
 
-*Top features, from the interface down to AI editing.*
+*Top features, from the interface down to AI editing. Key AI features include ⤵*
+
+- **Background Removal**
+- **Text - Image Generation**
+- **AI Image Edit**
 
 ### This is the interface
 
