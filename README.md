@@ -25,6 +25,7 @@ Blank canvas, toolbars, and AI tools ready to use.
 Default example: *"A dog dancing with a cat on the beach"* — create images from a prompt, edit or export them.
 
 <img width="1510" height="771" alt="Text - Image" src="https://github.com/user-attachments/assets/0ba7ad63-0ab6-4834-8d9e-8055c851ddf9" />
+<video src="https://github.com/user-attachments/assets/d5f7dc44-6368-4202-a983-8db7af85aba7" autoplay loop muted playsinline></video>
 
 ---
 
