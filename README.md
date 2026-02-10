@@ -1,4 +1,4 @@
-# ImageEditingApp
+# Image Editing Application 
 
 **Video full demo coming soon** 🔜
 
